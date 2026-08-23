@@ -67,3 +67,5 @@ If you encounter any issues or have suggestions, please open an issue on the [Gi
 ---
 
 Enjoy playing! 🎮✨
+
+<img width="300" height="494" alt="candy" src="https://github.com/user-attachments/assets/140ea8cd-db61-4ad1-901b-cd32a9053cae" />
