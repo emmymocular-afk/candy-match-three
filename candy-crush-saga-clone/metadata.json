@@ -1,0 +1,6 @@
+{
+  "name": "Candy Crush Saga Clone",
+  "description": "Vibrant match-3 puzzle game with level progression, special candy combos, power-ups, audio synthesis, and reward systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
